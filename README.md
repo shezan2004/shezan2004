@@ -33,15 +33,21 @@
 
 <table align="center" width="90%">
   <tr align="center">
-    <td width="33%">
+    <td width="50%">
       <strong>Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python,cpp" alt="Languages"/>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,java,cs" alt="Languages"/>
     </td>
-    <td width="33%">
+    <td width="50%">
+      <strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,oracle,mssql" alt="Databases"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="50%">
       <strong>Web Frontend</strong><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Frontend"/>
     </td>
-    <td width="33%">
+    <td width="50%">
       <strong>Tools & Environment</strong><br><br>
       <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools & Environment"/>
     </td>
