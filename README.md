@@ -31,10 +31,17 @@ I love learning new technologies, breaking problems down, and building things th
 
 ---
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shezan2004&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/shezan2004"><img src="https://img.shields.io/badge/GitHub-shezan2004-181717?style=for-the-badge&logo=github" /></a>
-  <a href="[https://linkedin.com/in/touhidul-alam-shezan-44b055306]"><img src="https://img.shields.io/badge/LinkedIn-Touhidul%20Alam-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/touhidul-alam-shezan-44b055306"><img src="https://img.shields.io/badge/LinkedIn-Touhidul%20Alam-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:shezantouhidulalam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
